@@ -1,8 +1,6 @@
 # Python-Final-Project-2020-21
 
-ANALYSING COVID-19 and ITS IMPACT 
-By: Utpal Mishra (20207425) 
-
+                                                               ANALYSING COVID-19 and ITS IMPACT 
 
 ABSTRACT
 
