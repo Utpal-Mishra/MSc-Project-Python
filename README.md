@@ -2,6 +2,7 @@
 
                                                                ANALYSING COVID-19 and ITS IMPACT 
 
+
 ABSTRACT
 
 The pandemic has been breaking down the health sector and has made us rejuvenate ourselves for a much healthier and better chores. Over the years, it has been proven the air quality has been degrading, especially with numerous forest fires and pollution thus, it has resulted in arising the respiration problem over time and being one of the easiest mediums to spread, the effect of the coronavirus has been intensified with the air we intake. With such a low-quality air to breathe, the percentage of the patient being covid-positive has increased as also investigated by professors in Harvard University.
@@ -9,6 +10,7 @@ The pandemic has been breaking down the health sector and has made us rejuvenate
 Within months, the globe was witnessing the impact of this virus and no mercy was shed, causing millions of lives and within the snap of a few months, a massive population has died and is still counting. Different countries have shown their actions and measure to safeguard their citizens with the assistance of numerous testing and medical analysis. Quite a decrease was observed with the initiation of face masks and sanitizing has been quite a prominent precaution along with social distancing. 
 
 This project illustrates the affecting factors for ongoing pandemic, investigations, and analysis with some impacts witnessed by the countries.   
+
 
 INTRODUCTION
 
@@ -24,11 +26,13 @@ The reason to all this is because these tiny pollutants penetrates deep into the
 
 So, the idea is to visualize and decipher the influence of toxic air pollutant particles, ups and down in COVID-19 cases, the medical analysis and favourable treatment done in majorly in Ireland. Furthermore, bring out the impact of COVID-19 on the economies and in unemployment.  
 
+
 ANALYSIS
 
 For testing, a standard method known as real-time reverse transcription-polymerase chain reaction has been into use. Results of respiratory samples through nasal swabs can reach from a couple of hours to two days. Moreover, blood tests can also be used with an immediate result. As of 4th April 2020, antibody tests are more accurate, but results take a couple of weeks to showcase any presence of the infecting virus. 
  
 Patients have even been tested COVID positive without the presence of any affecting symptoms of the virus in their body. A faster and risk-free alternative way has also been by collecting saliva samples using a sterile container when coughed. Along with testing in labs, a chest CT scan is another alternative for highly infected patients but not in chores.
+
 
 ABOUT THE DATA
 
@@ -37,21 +41,7 @@ To behold and decipher the metamorphosis of air pollution before the inception o
 
 Covid-19 Datasets:
 To understand the inception, spread, and analysis of the pandemic, multiple COVID-19 datasets was extracted from the Government of Ireland data portal i.e., https://data.gov.ie/dataset?theme=Health.
-
-DATA BASED ON	                  DATASET	                           DIMENSIONS
-		
-Air Pollution	    waqi-covid19-airqualitydata-2020.csv	           823001 x 9
-		
-COVID-19	        population_by_country_by_year.csv	                264 x 64
-                  cases_by_country_ireland.csv	                    595 x 10
-                  ICUBIHistoricTimelinePublicView.csv	              217 x 4
-                  COVIDStatisticsProfileHPSCIrelandOpenData.csv	    252 x 38
-                  LaboratoryLocalTimeSeriesHistoricView.csv	        227 x 11
-                  Weekly_testing_data_europe.csv	                  1011 x 9
-                  unemployment_by_country_by_year.csv	              264 x 65
-                  Euro_exchange_rates.csv	                          205 x 37
-                  Covid19AcuteHospitalHistoricSummaryOpenData	      239 x 2
-                  
+               
                   
 This project will majorly focus on the statistics and the impact of COVID-19 on Ireland. So, understanding the dynamic of COVID-19 is paramount and thus, to decipher a plausible virtuoso this section is bifurcated into four sub-sections concerning the data provided. These sections are namely, 
 
@@ -59,6 +49,7 @@ This project will majorly focus on the statistics and the impact of COVID-19 on 
 •	Cases Investigation
 •	Medical Strategies 
 •	Testing Interpretations
+
 
 RESULTS AND CONCLUSION
 
