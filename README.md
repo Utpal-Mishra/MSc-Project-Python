@@ -67,7 +67,7 @@ In conclusion, it can be said that based on factual statistics from October-Dece
 Though the world is slowly stabilizing with uncertain future, this pandemic is going to leave a deep impact on the health care section (uncertain), fluctuating international relations of the countries and technological advancement (a quicker inclination). It has also been observed that many countries are planning for a closed economy to build a stronger economy again with more employments by stepping towards self-sustaining. But since the virus is a biological specie which tends to mutate for its survival, the level of mutating and ultimately, the contamination and % spread will be unpredictable (as UK is witnessing, recently).
 
 
-### Sequence of Files used
+## SEQUENCE OF NOTEBOOKS USED
 
 1. IntroductionPopulation
 2. IncomeGroups
