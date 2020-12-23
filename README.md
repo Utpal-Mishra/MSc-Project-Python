@@ -79,4 +79,4 @@ Though the world is slowly stabilizing with uncertain future, this pandemic is g
 8. EuropeExchaneg
 9. CountryUnemplyment
 10. TimeSeriesAnalysis
-11. FoliumAnalysis (Additonal notebook to check out nearby venues in Ireland using Folium and Foursquare API)
+11. FoliumAnalysis (Additonal notebook to check out nearby venues in Ireland using Web Scraping, Folium Library and Foursquare API)
