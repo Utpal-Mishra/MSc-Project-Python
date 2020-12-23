@@ -65,3 +65,18 @@ With the ongoing it is imperative to predict the number of cases that might aris
 
 In conclusion, it can be said that based on factual statistics from October-December, the model made a precise prediction on new cases. And apart from the rise in cases, a downfall over the positive cases is also been observed as a percentage of the people have already started to get immune from the virus with the development of anti-bodies, with use of facemasks, following social distancing, using immunity boosters, and in time, from the vaccines, as expected. 
 Though the world is slowly stabilizing with uncertain future, this pandemic is going to leave a deep impact on the health care section (uncertain), fluctuating international relations of the countries and technological advancement (a quicker inclination). It has also been observed that many countries are planning for a closed economy to build a stronger economy again with more employments by stepping towards self-sustaining. But since the virus is a biological specie which tends to mutate for its survival, the level of mutating and ultimately, the contamination and % spread will be unpredictable (as UK is witnessing, recently).
+
+
+### Sequence of Files used
+
+1. IntroductionPopulation
+2. IncomeGroups
+3. AirPollution2020
+4. CasesPublicViewTimeline
+5. Medical Analysis
+6. TestingLocalTimeSeries
+7. TestingWeeklyData
+8. EuropeExchaneg
+9. CountryUnemplyment
+10. TimeSeriesAnalysis
+11. Folium (Additonal notebook to check out nearby venues in Ireland using Folium and Foursquare API)
