@@ -26,20 +26,26 @@ This repository contains a comprehensive project analyzing the impact of the COV
 13. [Contact](#contact)
 
 ## Abstract
-The COVID-19 pandemic has profoundly impacted the health sector, highlighting the need for improved public health measures. This project investigates how degrading air quality—exacerbated by pollution and environmental factors—affects the spread of the virus. The correlation between respiratory issues, air quality, and COVID-19 positivity rates was studied, alongside various medical strategies and governmental responses to safeguard populations. This project details the factors contributing to the ongoing pandemic, offering analysis and insights into its effects on different countries.
+The COVID-19 pandemic has profoundly impacted the health sector, highlighting the need for improved public health measures. This project investigates how degrading air quality—exacerbated by pollution and environmental factors—affects the spread of the virus. The correlation between respiratory issues, air quality, and COVID-19 positivity rates was studied alongside various medical strategies and governmental responses to safeguard populations. This project details the factors contributing to the pandemic, offering analysis and insights into its effects on different countries.
 
 ## Acknowledgements
-I would like to thank my professors and peers for their support throughout this project. Their insights and feedback were invaluable in shaping this analysis.
+It gives us great pleasure to present the report on the master’s Python final project undertaken during the autumn trimester. I owe a particular debt of gratitude towards Dr. Aine Bryne, School of Mathematics and Statistics, University College Dublin, Dublin, Ireland, for his constant support and guidance throughout our work. His sincerity, thoroughness and perseverance have been a continuous source of inspiration for us. Only through her cognizant effort have our endeavours seen the light of day.
+I also do not want to miss the opportunity to acknowledge the contribution of all the school's professors and tutors for their kind assistance and cooperation during the development of our project.
 
 ## Objective
 To analyze the factors contributing to the COVID-19 pandemic, including air pollution, testing strategies, and their impacts on public health and socio-economic conditions.
 
 ## Analysis
+For testing, a standard method known as real-time reverse transcription-polymerase chain reaction has been used. Results of respiratory samples through nasal swabs can take from a couple of hours to two days. Moreover, blood tests can also be used with immediate results. As of 4th April 2020, antibody tests are more accurate, but results take a couple of weeks to showcase any presence of the infecting virus. 
+ 
+Patients have even tested COVID positive without the presence of any affecting symptoms of the virus in their bodies. A faster and risk-free alternative has also been collecting saliva samples using a sterile container when coughing. Along with testing in labs, a chest CT scan is another alternative for highly infected patients, but not in chores.
+
+
 ### About Data
 This section discusses the data sources used for the analysis, including COVID-19 case numbers, air quality indices, and socio-economic indicators.
 
 ### Air Pollution
-An examination of how air quality has deteriorated during the pandemic and its implications for respiratory health.
+Examine how air quality has deteriorated during the pandemic and its implications for respiratory health.
 
 ### Cases Investigation
 A detailed analysis of COVID-19 case trends and their correlation with air quality and public health measures.
@@ -60,7 +66,7 @@ An exploration of how the pandemic affected currency exchange rates globally.
 Analysis of the socio-economic impacts of the pandemic, including unemployment trends.
 
 ### Time Series Forecasting
-Utilization of time series forecasting to predict future trends in COVID-19 cases based on historical data.
+Using time series forecasting to predict future trends in COVID-19 cases based on historical data.
 
 ## References
 A comprehensive list of references cited throughout the report.
