@@ -1,82 +1,74 @@
-# Python-Final-Project-2020-21
-
 # ANALYSING COVID-19 and ITS IMPACT 
 
+This repository contains a comprehensive project analyzing the impact of the COVID-19 pandemic on public health, air quality, and socio-economic factors. The project was completed as part of my Python Programming module during my Master's program.
 
-## ABSTRACT
+## Table of Contents
+1. [Certificate](#certificate)
+2. [Acknowledgements](#acknowledgements)
+3. [List of Tables](#list-of-tables)
+4. [List of Figures](#list-of-figures)
+5. [List of Symbols](#list-of-symbols)
+6. [List of Abbreviations](#list-of-abbreviations)
+7. [Objective](#objective)
+8. [Introduction](#introduction)
+9. [Analysis](#analysis)
+   - [About Data](#about-data)
+   - [Air Pollution](#air-pollution)
+   - [Cases Investigation](#cases-investigation)
+   - [Medical Strategies](#medical-strategies)
+   - [Testing Interpretations](#testing-interpretations)
+10. [Results and Conclusion](#results-and-conclusion)
+    - [Currency Exchange Rate](#currency-exchange-rate)
+    - [Unemployment](#unemployment)
+    - [Time Series Forecasting](#time-series-forecasting)
+11. [References](#references)
+12. [License](#license)
+13. [Contact](#contact)
 
-The pandemic has been breaking down the health sector and has made us rejuvenate ourselves for a much healthier and better chores. Over the years, it has been proven the air quality has been degrading, especially with numerous forest fires and pollution thus, it has resulted in arising the respiration problem over time and being one of the easiest mediums to spread, the effect of the coronavirus has been intensified with the air we intake. With such a low-quality air to breathe, the percentage of the patient being covid-positive has increased as also investigated by professors in Harvard University.
+## Abstract
+The COVID-19 pandemic has profoundly impacted the health sector, highlighting the need for improved public health measures. This project investigates how degrading air quality—exacerbated by pollution and environmental factors—affects the spread of the virus. The correlation between respiratory issues, air quality, and COVID-19 positivity rates was studied, alongside various medical strategies and governmental responses to safeguard populations. This project details the factors contributing to the ongoing pandemic, offering analysis and insights into its effects on different countries.
 
-Within months, the globe was witnessing the impact of this virus and no mercy was shed, causing millions of lives and within the snap of a few months, a massive population has died and is still counting. Different countries have shown their actions and measure to safeguard their citizens with the assistance of numerous testing and medical analysis. Quite a decrease was observed with the initiation of face masks and sanitizing has been quite a prominent precaution along with social distancing. 
+## Acknowledgements
+I would like to thank my professors and peers for their support throughout this project. Their insights and feedback were invaluable in shaping this analysis.
 
-This project illustrates the affecting factors for ongoing pandemic, investigations, and analysis with some impacts witnessed by the countries.   
+## Objective
+To analyze the factors contributing to the COVID-19 pandemic, including air pollution, testing strategies, and their impacts on public health and socio-economic conditions.
 
+## Analysis
+### About Data
+This section discusses the data sources used for the analysis, including COVID-19 case numbers, air quality indices, and socio-economic indicators.
 
-## INTRODUCTION
+### Air Pollution
+An examination of how air quality has deteriorated during the pandemic and its implications for respiratory health.
 
-In this project, we will be taking an excursion on one of the widely impacted diseases i.e., COVID-19. Coronavirus disease 2019 (COVID-19) is caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2). It was recognized in December 2019 by Wuhan, China being an infectious disease and eating up the world population.
+### Cases Investigation
+A detailed analysis of COVID-19 case trends and their correlation with air quality and public health measures.
 
-With acute respiratory distress syndrome (ARDS) with cold, fever, and loss of senses (taste and smell) are known to be the more profound symptoms of COVID-19 include fever, cough, fatigue, breathing difficulties, and loss of smell and taste. It was also been observed that in a longer span doctors have also witnessed damage to the heart and lungs as well as infection in body/ body parts. All of this can be comprised of an impact on the cognitive system, fatigue, and respiration.
- 
-Coming to the symptoms so, several means of spread has been observed namely, Close/ Direct contact (involving saliva and other bodily fluids and excretions). The exact route of transmission is rarely proven, but infection mainly happens when people are near each other for long enough, which is known as "close contact". It can spread as early as two days before infected persons show symptoms and from asymptomatic individuals. People remain infectious for up to ten days in moderate cases, and two weeks in severe cases. Preventive measures include social distancing, quarantining, ventilation of indoor spaces, covering coughs and sneezes, hand washing, and keeping unwashed hands away from the face. The use of face masks or coverings has been recommended in public settings to minimize the risk of transmissions.
- 
-From studies, it has been found that a sharp inclination death due to virus has been due to pollutant particles known as PM2.5, which has been consumed over years through the air. Researchers have analysed the data of deaths from the virus and on the tiny pollutant PM2.5 levels, and it was investigated that the pollutant was found in 98% of the U.S. population. Statistically, one microgram per m3 more concentration of PM2.5 in the air has resulted in a 15% higher rate of COVID-19 deaths.
+### Medical Strategies
+An overview of the medical strategies implemented to combat the pandemic, including testing, treatment, and vaccination efforts.
 
-The reason to all this is because these tiny pollutants penetrates deep into the human body which results in increasing complications of the COVID-19 patients with breathing problem, heart diseases, hypertension, and diabetes. It in turn weaken the immune system and causes inflammation in the lungs and respiratory tract and ultimately, makes the condition worst. 
+### Testing Interpretations
+Interpretations of testing data and its relevance to public health responses and outcomes.
 
-So, the idea is to visualize and decipher the influence of toxic air pollutant particles, ups and down in COVID-19 cases, the medical analysis and favourable treatment done in majorly in Ireland. Furthermore, bring out the impact of COVID-19 on the economies and in unemployment.  
+## Results and Conclusion
+This section presents the key findings from the analysis and discusses their implications for future public health strategies.
 
+### Currency Exchange Rate
+An exploration of how the pandemic affected currency exchange rates globally.
 
-## ANALYSIS
+### Unemployment
+Analysis of the socio-economic impacts of the pandemic, including unemployment trends.
 
-For testing, a standard method known as real-time reverse transcription-polymerase chain reaction has been into use. Results of respiratory samples through nasal swabs can reach from a couple of hours to two days. Moreover, blood tests can also be used with an immediate result. As of 4th April 2020, antibody tests are more accurate, but results take a couple of weeks to showcase any presence of the infecting virus. 
- 
-Patients have even been tested COVID positive without the presence of any affecting symptoms of the virus in their body. A faster and risk-free alternative way has also been by collecting saliva samples using a sterile container when coughed. Along with testing in labs, a chest CT scan is another alternative for highly infected patients but not in chores.
+### Time Series Forecasting
+Utilization of time series forecasting to predict future trends in COVID-19 cases based on historical data.
 
+## References
+A comprehensive list of references cited throughout the report.
 
-## ABOUT THE DATA
+## License
+This project is licensed under the MIT License.
 
-### Air Pollution Dataset:
-To behold and decipher the metamorphosis of air pollution before the inception of the pandemic as well as to make a prediction (after few years), a WORLDWIDE COVID-19 Dataset (2020) was extracted from Air Quality Open Data Platform of size 8, 23,002.
-
-### Covid-19 Datasets:
-To understand the inception, spread, and analysis of the pandemic, multiple COVID-19 datasets was extracted from the Government of Ireland data portal i.e., https://data.gov.ie/dataset?theme=Health.
-               
-                  
-This project will majorly focus on the statistics and the impact of COVID-19 on Ireland. So, understanding the dynamic of COVID-19 is paramount and thus, to decipher a plausible virtuoso this section is bifurcated into four sub-sections concerning the data provided. These sections are namely, 
-
-•	Effect of Air Pollutants
-•	Cases Investigation
-•	Medical Strategies 
-•	Testing Interpretations
-
-
-## RESULTS AND CONCLUSION
-
-### CURRENCY EXCHANGE RATE
-With people getting tested positive and economy on contraction, the companies had to eventually remove employees to a massive scale.. It can be witnessed through the span from March 2020 to September 2020 with respect to Euros, the value of Indonesian Rupiah rises by the value of ~177.44 followed by the shift of figure of ~43 of South Korean won, while other countries have observed a lower exchange rate.
-
-### UNEMPLOYMENT
-With people getting tested positive and economy on contraction, the companies had to eventually remove employees to a massive scale.. It was observed that South Africa (28.47%) and West Bank and Gaza (26%) had highest unemployment rate while Qatar with the lowest unemployment rate of 0.082% followed by Niger, Solomon Islands, Lao PDR and Cambodia with rate between ~0.40-0.70%.
-
-### TIME SERIES FORECASTING 
-With the ongoing it is imperative to predict the number of cases that might arise in the coming month so, that requisite safety and healthcare measure can be taken into consideration by the Government and the citizens. Thus, to make forecasting (Figure 16) multiple time series forecasting models were used to make the prediction for the number COVID-19 cases that might show up in future.
-
-
-In conclusion, it can be said that based on factual statistics from October-December, the model made a precise prediction on new cases. And apart from the rise in cases, a downfall over the positive cases is also been observed as a percentage of the people have already started to get immune from the virus with the development of anti-bodies, with use of facemasks, following social distancing, using immunity boosters, and in time, from the vaccines, as expected. 
-Though the world is slowly stabilizing with uncertain future, this pandemic is going to leave a deep impact on the health care section (uncertain), fluctuating international relations of the countries and technological advancement (a quicker inclination). It has also been observed that many countries are planning for a closed economy to build a stronger economy again with more employments by stepping towards self-sustaining. But since the virus is a biological specie which tends to mutate for its survival, the level of mutating and ultimately, the contamination and % spread will be unpredictable (as UK is witnessing, recently).
-
-
-## SEQUENCE OF NOTEBOOKS USED
-
-1. IntroductionPopulation
-2. IncomeGroups
-3. AirPollution2020
-4. CasesPublicViewTimeline
-5. Medical Analysis
-6. TestingLocalTimeSeries
-7. TestingWeeklyData
-8. EuropeExchaneg
-9. CountryUnemplyment
-10. TimeSeriesAnalysis
-11. FoliumAnalysis (Additonal notebook to check out nearby venues in Ireland using Web Scraping, Folium Library and Foursquare API)
+## Contact
+For further information or inquiries, please contact me at:
+- **GitHub**: [https://github.com/Utpal-Mishra](https://github.com/username)
+- **Email**: [utpalmishra21official@gmail.com](mailto:youremail@example.com)
